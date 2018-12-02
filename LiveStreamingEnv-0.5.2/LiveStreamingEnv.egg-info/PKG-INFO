@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: LiveStreamingEnv
+Version: 0.5.2
+Summary: An env for livestreaming game in Tsinghua TransAI game
+Home-page: https://github.com/bupt-steven/LiveStreamingEnv
+Author: Bupt-Steven
+Author-email: Bupt-steven@foxmail.com
+License: MIT Licence
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Keywords: pip,LiveStreamingEnv,featureextraction
+Platform: any
